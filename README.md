@@ -49,10 +49,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-4) Observe ticket for updates from Assigned person.
+4) Check ticket for updates from Assigned person.<br>
 </p>
 <p>
 <img src="https://i.imgur.com/5yX7Svw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/aH5FPaW.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+5) Once Resolved, ticket will now be under "Closed" tab.
+</p>
+<p>
+<img src="https://i.imgur.com/9nrW4xY.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
