@@ -52,6 +52,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 4) Observe ticket for updates from Assigned person.
 </p>
 <p>
-<img src="https://i.imgur.com/5yX7Svw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5yX7Svw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aH5FPaW.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
